@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<title>Cadastro de Amigo</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="content p-1">
+			<div class="list-group-item">
+				<div class="d-flex">
+					<div class="mr-auto p-2">
+						<h2 class="display-4 titulo">Cadastrar Amigo - Endereço</h2>
+					</div>
+				</div>
+				<hr>
+				<form action="#" th:action="@{/amigo/cadastro/endereco}"
+					th:object="${Endereco}" method="post">
+					
+					<div class="form-row">
+					<label>Amigo</label> <select name="amigo_id" class="form-control">
+								<option th:each="amigo : ${amigos}" th:value="${amigo.id}"
+									th:text="${amigo.nome}" />
+							</select>	
+					</div>
+					
+					<div class="form-row">
+
+						<div class="form-group col-md-3">
+							<label>Logradouro </label> <input name="logradouro"
+								type="text" class="form-control" id="logradouro"
+								placeholder="">
+
+						</div>
+
+						<div class="form-group col-md-3">
+							<label>Numero</label> <input name="numero" type="text"
+								class="form-control" id="numero" placeholder="">
+						</div>
+
+						<div class="form-group col-md-3">
+							<label>Complemento </label> <input name="complemento"
+								type="text" class="form-control" id="complemento"
+								placeholder="">
+						</div>
+
+						<div class="form-group col-md-3">
+							<label>Telefone</label> <input name="telefone" type="text"
+								class="form-control" id="telefone" placeholder="">
+						</div>
+
+					</div>
+
+					<div class="form-row">
+						<div class="form-group col-md-3">
+							<label>Bairro </label> <input name="bairro " type="text"
+								class="form-control" id="bairro" placeholder="">
+						</div>
+
+						<div class="form-group col-md-3">
+							<label>Cep</label> <input name="cep " type="text"
+								class="form-control" id="cep" placeholder="">
+						</div>
+
+						<div class="form-group col-md-3">
+							<label>Cidade</label> <select name="cidade_id" class="form-control">
+								<option th:each="cidade : ${cidades}" th:value="${cidade.id}"
+									th:text="${cidade.nome}" />
+							</select>
+						</div>
+
+						<div class="form-group col-md-3">
+							<label>Estado</label> <select name="estado" class="form-control">
+								<option th:each="estado : ${estados}" th:value="${estado.id}"
+									th:text="${estado.nome}" />
+							</select>
+						</div>
+					</div>
+					<p>
+						<span class="text-danger">* </span>Campo obrigatório
+					</p>
+					<button type="submit" class="btn btn-success">Cadastrar</button>
+				</form>
+			</div>
+		</div>
+	</div>
+
+</body>
+</html>

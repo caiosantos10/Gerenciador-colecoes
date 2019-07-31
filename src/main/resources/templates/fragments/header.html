@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8">
+	<meta name="viewport"
+		content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Gerenciador de coleções</title>
+	<link rel="icon" href="">
+	<link rel="stylesheet"
+		href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+	<script defer src="../js/fontawesome-all.min.js"></script>
+	<link rel="stylesheet" href="../css/fontawesome.min.css">
+	<link rel="stylesheet" href="../css/dashboard.css">
+</head>
+<body>
+	<nav class="navbar navbar-expand navbar-dark bg-primary" th:fragment="header">
+		<a class="sidebar-toggle text-light mr-3"> <span
+			class="navbar-toggler-icon"></span>
+		</a> <a class="navbar-brand" href="#">Gerenciador de coleções</a>
+
+		<div class="collapse navbar-collapse">
+			<ul class="navbar-nav ml-auto">
+				<li class="nav-item dropdown"><a
+					class="nav-link dropdown-toggle menu-header" href="#"
+					id="navbarDropdownMenuLink" data-toggle="dropdown"> <img
+						class="rounded-circle" src="../img/user.png" width="20"
+						height="20"> &nbsp;<span class="d-none d-sm-inline" th:text=${userlogado}>Usuario</span>
+				</a>
+					<div class="dropdown-menu dropdown-menu-right"
+						aria-labelledby="navbarDropdownMenuLink">
+						 <a class="dropdown-item" th:href="@{/logout}"><i
+							class="fas fa-sign-out-alt"></i> Sair</a>
+					</div></li>
+			</ul>
+		</div>
+	</nav>
+</body>
+</html>

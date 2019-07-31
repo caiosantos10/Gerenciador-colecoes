@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<title>Bem vindo ao sistema!</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="page-header">
+			<br>
+			<div class="row">
+				<div class="col-sm-6">
+					<div id="wishlist">
+						<h4>Lista de desejos:</h4>
+						<div class="list-group">
+							<th:block th:each="desejo : ${desejos}">
+								<a href="#" class="list-group-item list-group-item-action">
+									<div class="d-flex w-100 justify-content-between">
+										<h5 class="mb-1" th:text="${desejo.nomeDoProduto}"></h5>
+										<small
+											th:text="Lançamento- +${#dates.format(desejo.dataLancamento,'dd/MM/yyyy')}"></small>
+									</div>
+									<p class="mb-1">Link para a loja:</p> <small
+									th:text="${desejo.urlProduto}"></small>
+									<p class="mb-1">Preço:</p> <small th:text="${desejo.preco}"></small>
+								</a>
+							</th:block>
+							<small>Preço Total:</small>
+							<h4 th:text="${precoTotal}">Valor total:</h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

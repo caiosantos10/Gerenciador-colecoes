@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<title>Cadastro HQ</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="content p-1">
+			<div class="list-group-item">
+				<div class="d-flex">
+					<div class="mr-auto p-2">
+						<h2 class="display-4 titulo">Cadastro HQ</h2>
+					</div>
+				</div>
+				<hr>
+				<form action="#" th:action="@{/hq/editar}" 
+						th:object="${HQ}" method="post">
+
+					<div class="form-row">
+						
+						<div class="form-group col-md-2">
+							<label> <span class="text-danger">*</span> ID
+							</label> <input name="id" type="text" class="form-control"
+								id="id" placeholder="ID" th:field="*{id}" />
+						</div>
+						
+						
+						<div class="form-group col-md-5">
+							<label><span class="text-danger">*</span> Titulo</label> <input
+								name="titulo" type="text" class="form-control" id="titulo"
+								placeholder="Titulo completo" th:field="*{titulo}">
+						</div>
+						<div class="form-group col-md-5">
+							<label><span class="text-danger">*</span> Preço</label> <input
+								name="preco" type="number" class="form-control" id="preco"
+								placeholder="Informe o preço" th:field="*{preco}">
+						</div>
+						
+						
+					</div>
+
+					<div class="form-row">
+						<div class="form-group col-md-6">
+							<label><span class="text-danger">*</span> Numero</label> <input
+								name="numero" type="number" class="form-control" id="numero"
+								placeholder="">
+						</div>
+						
+						<div class="form-group col-md-6">
+							<label><span class="text-danger">*</span> Editora</label> <input
+								name="editora" type="text" class="form-control" id="editora"
+								placeholder="" th:field="*{editora}">
+						</div>
+						
+					</div>
+					
+								
+					<div class="form-row">
+						
+						<div class="form-group col-md-6">
+							<label><span class="text-danger">*</span> Universo</label> <input
+								name="universo" type="number" class="form-control" id="universo"
+								placeholder="" th:field="*{universo}">
+						</div>
+						
+						<div class="form-group col-md-3">
+							<label>Estado</label> <select name="estado" id="estado"
+								class="form-control">
+								<option selected>Selecione</option>
+								<option value="NOVO">NOVO</option>
+								<option value="RASURADO">USADO</option>
+							</select>
+						</div>
+
+						<div class="form-group col-md-3">
+							<label>Status</label> <select name="statusLeitura" id="statusLeitura"
+								class="form-control">
+								<option selected>Selecione</option>
+								<option value="true">SIM</option>
+								<option value="false">NÃO</option>
+							</select>
+						</div>
+
+					</div>
+
+					<div class="form-row">
+						<label>Observações</label>
+						<textarea name="observacoes" class="form-control" id="observacoes" th:field="*{observacoes}">
+						</textarea>
+					</div>
+					<br>
+					<button type="submit" class="btn btn-success">Cadastrar</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

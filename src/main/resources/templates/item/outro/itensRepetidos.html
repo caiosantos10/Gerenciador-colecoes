@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<title>Listar itens repetidos</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="content p-1">
+			<div class="list-group-item">
+				<div class="d-flex">
+					<div class="mr-auto p-2">
+						<h2 class="display-4 titulo">Itens Repetidos</h2>
+					</div>
+				</div>
+				<hr>
+				<div>
+					<table class="table table-striped">
+						<tr>
+							<th>Titulo</th>
+							<th>Preço</th>
+							<th>Observações</th>
+							
+						</tr>
+						<tr th:each="item : ${itens}">
+							<td th:text="${item.titulo}">Titulo</td>
+							<td th:text="${item.preco}">Preço</td>
+							<td th:text="${item.observacoes}">Observações</td>
+							
+						</tr>
+					</table>
+				</div>	
+			</div>
+		</div>
+	</div>
+</body>
+</html>

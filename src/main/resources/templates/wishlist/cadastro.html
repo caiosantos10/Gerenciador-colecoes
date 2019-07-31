@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<title>WishList</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="content p-1">
+			<div class="list-group-item">
+				<div class="d-flex">
+					<div class="mr-auto p-2">
+						<h2 class="display-4 titulo">WishList</h2>
+					</div>
+				</div>
+				<hr>
+
+				<form th:action="@{/wishlist/adicionar}" th:object="${wishlist}"
+					method="post">
+
+					<div class="form-row">
+						<div class="form-group col-md-8">
+							<label><span class="text-danger">*</span> Nome:</label> <input
+								name="nomeDoProduto" type="text" class="form-control"
+								id="nomeDoProduto" placeholder="Nome">
+						</div>
+
+						<div class="form-group col-md-4">
+							<label><span class="text-danger">*</span> Preço:</label> <input
+								name="preco" type="number" class="form-control" id="preco" 
+								required placeholder="Informe o preço">
+						</div>
+
+						<div class="form-group col-md-12">
+							<label><span class="text-danger">*</span> URL do produto:</label>
+							<input name="urlProduto" type="text" class="form-control"
+								id="urlProduto" placeholder="https://padrepauloricardo.org/">
+						</div>
+					</div>
+
+					<div class="form-row">
+						<div class="form-group col-md-4">
+							<input type="checkbox" name="isLancamento" id="isLancamento" value="1">
+							É lançamento?<br>
+						</div>
+
+						<div class="form-group col-md-4">
+							<input name="dataLancamento" type="date"
+								class="form-control" id="dataLancamento">
+						</div>
+					</div>
+					<br>
+					<button type="submit" class="btn btn-success">Cadastrar</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

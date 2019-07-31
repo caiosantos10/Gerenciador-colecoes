@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+
+<head>
+
+<meta charset="utf-8">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Gerenciador</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="stylesheet" type="text/css" media="screen">
+
+
+</head>
+
+<!-- Bootstrap CSS -->
+<link rel="stylesheet"
+	href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+
+<body class="body">
+	<div class="container">
+		<div class="row">
+			<div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+				<div class="card card-signin my-5">
+					<div class="card-body">
+						<h5 class="card-title text-center">Gerenciador de coleções</h5>
+
+						<div th:if="${param.error}">
+							<div class="alert alert-danger">Email ou senha incorreto.</div>
+						</div>
+						
+						<form class="form-signin" action="login" th:object="${usuario}"
+							method="post">
+							<div class="form-label-group">
+								<label for="inputEmail">E-mail:</label> <input type="text"
+									id="email" name="username" class="form-control"
+									placeholder="Email" required autofocus>
+							</div>
+
+							<div class="form-label-group">
+								<label for="inputPassword">Senha:</label> <input type="password"
+									id="senha" name="password" class="form-control"
+									placeholder="Senha" required> <br>
+							</div>
+
+							<div class="form-group">
+								<button class="btn btn-primary btn-block" type="submit">Entrar</button>
+							</div>
+
+						</form>
+
+						<br>
+						<h6 class="criar-conta">
+							<a th:href="@{/usuario/cadastro}">Ainda não é usuário? Criar
+								um cadastro.</a>
+						</h6>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+</body>
+
+</html>

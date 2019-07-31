@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<title>Listar Emprestimo</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="content p-1">
+			<div class="list-group-item">
+				<div class="d-flex">
+					<div class="mr-auto p-2">
+						<h2 class="display-4 titulo">Lista Emprestimo</h2>
+					</div>
+				</div>
+				<hr>
+				<div>
+					<table class="table table-striped">
+						<tr>
+							<th>Item</th>
+							<th>Amigo</th>
+							<th>Data de Emprestimo</th>
+							<th>Date de Devolução</th>
+							<th>Deletar</th>
+						</tr>
+						<tr th:each="emprestimo : ${emprestimos}">
+							<td th:text="${emprestimo.item}">Item</td>
+							<td th:text="${emprestimo.amigo}">Amigo</td>
+							<td th:text="${#dates.format(emprestimo.dataDeEmprestimo,'dd/MM/yyyy')}">Data de Emprestimo</td>
+							<td th:text="${#dates.format(emprestimo.dataDeDevolucao,'dd/MM/yyyy')}">Date de Devolução</td>
+							
+							<td><a th:href="${'/emprestimo/deletar/' + emprestimo.id}"
+								class="btn btn-danger">Deletar</a></td>
+						</tr>
+					</table>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</body>
+</html>

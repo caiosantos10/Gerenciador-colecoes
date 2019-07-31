@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<title>Listar DVD/CD</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="content p-1">
+			<div class="list-group-item">
+				<div class="d-flex">
+					<div class="mr-auto p-2">
+						<h2 class="display-4 titulo">Lista de Amigos</h2>
+					</div>
+				</div>
+				<hr>
+				<div>
+					<table class="table table-striped">
+						<tr>
+							<th>Nome</th>
+							<th>Parentesco</th>
+							<th>Deletar</th>
+						</tr>
+						<tr th:each="amigo : ${amigos}">
+							<td th:text="${amigo.nome}">Nome</td>
+							<td th:text="${amigo.parentesco}">Parentesco</td>
+						
+							<td><a th:href="${'/amigo/deletar/' + amigo.id}"
+								class="btn btn-danger">Deletar</a></td>
+						</tr>
+					</table>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</body>
+</html>

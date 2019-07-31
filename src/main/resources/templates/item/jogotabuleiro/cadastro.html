@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<title>Cadastro Jogo de Tabuleiro</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="content p-1">
+			<div class="list-group-item">
+				<div class="d-flex">
+					<div class="mr-auto p-2">
+						<h2 class="display-4 titulo">Cadastro Jogo de Tabuleiro</h2>
+					</div>
+				</div>
+				<hr>
+				<form action="#" th:action="@{/jogo_tabuleiro/adicionar}" th:object="${JogoDeTabuleiro}"
+					method="post">
+
+					<div class="form-row">
+						<div class="form-group col-md-6">
+							<label><span class="text-danger">*</span> Titulo</label> <input
+								name="titulo" type="text" class="form-control" id="titulo"
+								placeholder="Titulo completo">
+						</div>
+						<div class="form-group col-md-6">
+							<label><span class="text-danger">*</span> Preço</label> <input
+								name="preco" type="number" class="form-control" id="preco"
+								placeholder="Informe o preço">
+						</div>
+					</div>
+
+					<div class="form-row">
+						<div class="form-group col-md-3">
+							<label>Estado</label> <select name="estado" id="estado"
+								class="form-control">
+								<option selected>Selecione</option>
+								<option value="NOVO">NOVO</option>
+								<option value="RASURADO">USADO</option>
+							</select>
+						</div>
+					</div>
+
+					<div class="form-row">
+						<label>Observações</label>
+						<textarea name="observacoes" class="form-control" id="observacoes">
+						</textarea>
+					</div>
+					<br>
+					<button type="submit" class="btn btn-success">Cadastrar</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

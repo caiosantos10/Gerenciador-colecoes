@@ -1,0 +1,9 @@
+com.uepb.gerenciador
+com.uepb.gerenciador.controller
+com.uepb.gerenciador.exception
+com.uepb.gerenciador.model
+com.uepb.gerenciador.model.enums
+com.uepb.gerenciador.repository
+com.uepb.gerenciador.service
+com.uepb.gerenciador.service.impl
+com.uepb.gerenciador.test

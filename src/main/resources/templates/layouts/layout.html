@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout">
+
+<meta charset="UTF-8">
+
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<title>Gerenciador de coleções</title>
+
+<link rel="icon" href="">
+
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+
+<script defer th:src="@{/js/fontawesome-all.min.js}"></script>
+
+<link rel="stylesheet" th:href="@{/css/fontawesome.min.css}">
+
+<link rel="stylesheet" th:href="@{/css/dashboard.css}">
+
+</head>
+<body>
+	<div th:replace="fragments/header :: header"></div>
+	<div class="d-flex">
+		<nav class="sidebar">
+			<ul class="list-unstyled">
+				<li><a th:href="@{/home}"><i class="fas fa-tachometer-alt"></i>
+						Inicio</a></li>
+				<li><a href="#submenu2" data-toggle="collapse"><i
+						class="fas fa-list-ul"></i> Cadastrar Item</a>
+					<ul id="submenu2" class="list-unstyled collapse">
+						<li><a th:href="@{/hq/adicionar}"><i
+								class="fab fa-elementor"></i> HQ</a></li>
+						<li><a th:href="@{/dvd_cd/adicionar}"><i
+								class="fab fa-elementor"></i> DVD/CD</a></li>
+						<li><a th:href="@{/jogo_tabuleiro/adicionar}"><i
+								class="fab fa-elementor"></i> Jogo de tabuleiro</a></li>
+						<li><a th:href="@{/jogo_videogame/adicionar}"><i
+								class="fab fa-elementor"></i> Jogo de vídeo game</a></li>
+						<li><a th:href="@{/item/adicionar}"><i
+								class="fab fa-elementor"></i> Outros</a></li>
+					</ul></li>
+
+				<li><a href="#submenu1" data-toggle="collapse">Listar </a>
+					<ul id="submenu1" class="list-unstyled collapse">
+						<li><a th:href="@{/hq/hqs}"> HQ</a></li>
+						<li><a th:href="@{/dvd_cd/dvds}"> DVD</a></li>
+						<li><a th:href="@{/jogo_tabuleiro/jogos}"> Jogo de tabuleiro</a></li>
+						<li><a th:href="@{/jogo_videogame/jogos}"> Jogo de videogame</a></li>
+						<li><a th:href="@{/item/todos}"> Todos os itens</a></li>
+						<li><a th:href="@{/item/repetidos}">Itens Repetidos</a></li>
+					</ul></li>
+				<li><a th:href="@{/emprestimo/cadastro}"> Realizar emprestimo</a></li>
+				<li><a th:href="@{/emprestimo/listar}"> Listar emprestimos realizados</a></li>
+				<li><a th:href="@{/amigo/cadastro}"> Cadastrar Amigo</a></li>
+				<li><a th:href="@{/amigo/amigos}"> Listar amigos cadastrados</a></li>
+				<li><a th:href="@{/wishlist/adicionar}">WishList</a></li>
+				<li><a th:href="@{/item/ranking}"> Abrir Ranking</a></li>
+				<li><a th:href="@{/logout}"><i class="fas fa-sign-out-alt"></i> Sair</a></li>
+			</ul>
+		</nav>
+
+		<div class="container">
+			<div layout:fragment="content">O conteÃºdo das pÃ¡ginas filhas
+				aparecerÃ£o aqui.</div>
+		</div>
+
+	</div>
+
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+	<script
+		src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+	<script th:src="@{/js/dashboard.js}"></script>
+</body>
+</html>

@@ -1,0 +1,332 @@
+02/04/19 15:49 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+04/04/19 08:50 [main]  WARN com.uepb.gerenciador.service.impl.AmigoServiceImpl:58 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+04/04/19 09:59 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:62 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:00 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:62 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:02 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:18 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:18 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:22 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:22 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:24 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:24 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:43 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:43 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:45 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:45 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:46 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:46 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:50 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:50 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:55 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:55 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:58 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:87 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:58 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 10:58 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:08 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:87 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:08 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:08 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:13 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:88 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:13 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:13 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:14 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:88 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:14 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:14 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:15 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:88 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:15 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:15 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:16 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:88 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:16 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:16 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:17 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:88 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:17 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:17 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+04/04/19 11:17 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:112 - Objeto inexistente class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 00:38 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:71 - jogo inexistente, class com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl
+13/04/19 00:38 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:52 - JogoDeVideoGame nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:39 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:71 - jogo inexistente, class com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl
+13/04/19 00:39 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:52 - JogoDeVideoGame nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:40 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:71 - jogo inexistente, class com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl
+13/04/19 00:40 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:52 - JogoDeVideoGame nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:42 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:71 - jogo inexistente, class com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl
+13/04/19 00:42 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:52 - JogoDeVideoGame nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:43 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:70 - este Jogo de tabuleiro nao existe, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+13/04/19 00:43 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+13/04/19 00:44 [main]  WARN com.uepb.gerenciador.service.impl.ItemServiceImpl:51 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+13/04/19 00:46 [main]  WARN com.uepb.gerenciador.service.impl.HqServiceImpl:69 - Este HQ nao existe, class com.uepb.gerenciador.service.impl.HqServiceImpl
+13/04/19 00:46 [main]  WARN com.uepb.gerenciador.service.impl.HqServiceImpl:51 - Hq nao encontrado, class com.uepb.gerenciador.service.impl.HqServiceImpl
+13/04/19 00:47 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:47 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:49 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:72 - Objeto inexistente class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:49 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:50 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:72 - Objeto inexistente class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:50 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 00:51 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:87 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 00:51 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 00:51 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 00:51 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:111 - Objeto inexistente class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.HqServiceImpl:69 - Este HQ nao existe, class com.uepb.gerenciador.service.impl.HqServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.HqServiceImpl:51 - Hq nao encontrado, class com.uepb.gerenciador.service.impl.HqServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.ItemServiceImpl:51 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:72 - Objeto inexistente class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:71 - jogo inexistente, class com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:52 - JogoDeVideoGame nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:70 - este Jogo de tabuleiro nao existe, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.AmigoServiceImpl:58 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.HqServiceImpl:69 - Este HQ nao existe, class com.uepb.gerenciador.service.impl.HqServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.HqServiceImpl:51 - Hq nao encontrado, class com.uepb.gerenciador.service.impl.HqServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:87 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 10:14 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:111 - Objeto inexistente class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.ItemServiceImpl:51 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:72 - Objeto inexistente class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:71 - jogo inexistente, class com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:52 - JogoDeVideoGame nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:70 - este Jogo de tabuleiro nao existe, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.AmigoServiceImpl:58 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.HqServiceImpl:69 - Este HQ nao existe, class com.uepb.gerenciador.service.impl.HqServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.HqServiceImpl:51 - Hq nao encontrado, class com.uepb.gerenciador.service.impl.HqServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:87 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:60 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+13/04/19 10:15 [main]  WARN com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:111 - Objeto inexistente class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+14/04/19 17:50 [http-nio-8080-exec-1]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+14/04/19 17:54 [http-nio-8080-exec-1]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+14/04/19 17:55 [http-nio-8080-exec-1]  WARN com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+14/04/19 21:03 [http-nio-8080-exec-3] ERROR com.uepb.gerenciador.controller.JogoDeTabuleiroController:47 - Erro ao criar o registro de Jogo de Tabuleiro: 
+14/04/19 22:01 [http-nio-8080-exec-9]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:70 - este Jogo de tabuleiro nao existe, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+15/04/19 11:20 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.HQController:47 - Erro ao criar o registro de HQ: 
+15/04/19 11:20 [http-nio-8080-exec-9] ERROR com.uepb.gerenciador.controller.HQController:47 - Erro ao criar o registro de HQ: 
+15/04/19 11:20 [http-nio-8080-exec-7] ERROR com.uepb.gerenciador.controller.HQController:47 - Erro ao criar o registro de HQ: 
+15/04/19 13:37 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.controller.DvdCdController:100 - Erro ao atualizar o registro de DVD/CD: são francisco
+15/04/19 13:40 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.DvdCdController:100 - Erro ao atualizar o registro de DVD/CD: são padre pio de pietricina
+15/04/19 13:41 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.DvdCdController:100 - Erro ao atualizar o registro de DVD/CD: sao f
+15/04/19 13:41 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.DvdCdController:100 - Erro ao atualizar o registro de DVD/CD: são padre pio de pietricina
+15/04/19 13:56 [http-nio-8080-exec-3] ERROR com.uepb.gerenciador.controller.DvdCdController:100 - Erro ao atualizar o registro de DVD/CD: são francisco
+15/04/19 14:15 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.HQController:95 - Erro ao atualizar o registro de HQ: são padre pio de pietricina
+15/04/19 14:16 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.HQController:95 - Erro ao atualizar o registro de HQ: são padre pio de pietricina
+15/04/19 14:32 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.JogoDeTabuleiroController:94 - Erro ao atualizar o registro de JogoDeTabuleiro: Pingo
+15/04/19 14:37 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.controller.JogoDeTabuleiroController:94 - Erro ao atualizar o registro de JogoDeTabuleiro: são padre pio de pietricina
+15/04/19 14:41 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.controller.JogoDeTabuleiroController:94 - Erro ao atualizar o registro de JogoDeTabuleiro: xadrez
+15/04/19 14:41 [http-nio-8080-exec-9] ERROR com.uepb.gerenciador.controller.JogoDeTabuleiroController:94 - Erro ao atualizar o registro de JogoDeTabuleiro: xadrez
+15/04/19 14:45 [http-nio-8080-exec-6] ERROR com.uepb.gerenciador.controller.JogoDeTabuleiroController:94 - Erro ao atualizar o registro de JogoDeTabuleiro: xadrez
+15/04/19 14:53 [http-nio-8080-exec-3] ERROR com.uepb.gerenciador.controller.JogoDeTabuleiroController:94 - Erro ao atualizar o registro de JogoDeTabuleiro: são padre pio de pietricina
+15/04/19 14:56 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.JogoDeTabuleiroController:94 - Erro ao atualizar o registro de JogoDeTabuleiro: xadrez
+15/04/19 15:08 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.JogoDeTabuleiroController:94 - Erro ao atualizar o registro de JogoDeTabuleiro: são padre pio de pietricina
+15/04/19 15:25 [http-nio-8080-exec-1]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+15/04/19 15:25 [http-nio-8080-exec-7]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+15/04/19 15:28 [http-nio-8080-exec-6]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+15/04/19 15:30 [http-nio-8080-exec-1]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+15/04/19 15:30 [http-nio-8080-exec-3]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+15/04/19 15:30 [http-nio-8080-exec-5]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+15/04/19 15:30 [http-nio-8080-exec-7]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+15/04/19 15:30 [http-nio-8080-exec-9]  WARN com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+15/04/19 15:35 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.controller.JogoDeVideogameController:92 - Erro ao atualizar o registro de JogoDeVideogame: são padre pio de pietricina
+15/04/19 15:35 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.JogoDeVideogameController:92 - Erro ao atualizar o registro de JogoDeVideogame: são padre pio de pietricina
+15/04/19 15:50 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.controller.JogoDeVideogameController:92 - Erro ao atualizar o registro de JogoDeVideogame: são padre pio de pietricina
+15/04/19 16:04 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.HQController:95 - Erro ao atualizar o registro de HQ: DEDE
+16/04/19 08:58 [http-nio-8080-exec-2] ERROR com.uepb.gerenciador.controller.HQController:48 - Erro ao criar o registro de HQ: são padre pio de pietricina
+16/04/19 09:34 [http-nio-8080-exec-2] ERROR com.uepb.gerenciador.controller.DvdCdController:100 - Erro ao atualizar o registro de DVD/CD: são padre pio de pietricinadd
+16/04/19 16:34 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:88 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+16/04/19 16:34 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+16/04/19 16:34 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:61 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+16/04/19 16:34 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:112 - Objeto inexistente class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+16/04/19 16:36 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 16:40 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 16:43 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 16:47 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 17:18 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 17:31 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 17:33 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 17:39 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 17:43 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:113 - Objeto inexistente class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 17:43 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 17:45 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:113 - Objeto inexistente class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 17:45 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 18:34 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:141 - O nome não pode ser nulo
+16/04/19 18:34 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:34 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:141 - O nome não pode ser nulo
+16/04/19 18:34 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:35 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:60 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:37 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:60 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:37 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:97 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:40 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:60 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:40 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:97 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:45 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:60 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:45 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:97 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:46 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:60 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 18:46 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:97 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 19:14 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:131 - O usuario não pode ser nulo
+16/04/19 19:14 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 19:14 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:60 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 19:14 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:141 - O nome não pode ser nulo
+16/04/19 19:14 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 19:14 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:136 - O e-mail não pode ser nulo
+16/04/19 19:14 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 19:14 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:146 - O senha não pode ser nulo
+16/04/19 19:14 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 19:14 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:97 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:71 - jogo inexistente, class com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl:52 - JogoDeVideoGame nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeVideogameServiceImpl
+16/04/19 20:47 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:131 - O usuario não pode ser nulo
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:60 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 20:47 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:141 - O nome não pode ser nulo
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 20:47 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:136 - O e-mail não pode ser nulo
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 20:47 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:146 - O senha não pode ser nulo
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:45 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:97 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:70 - este Jogo de tabuleiro nao existe, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl:51 - JogoDeTabuleiro nao encontrado, class com.uepb.gerenciador.service.impl.JogoDeTabuleiroServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.DvdCdServiceImpl:72 - Objeto inexistente class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.DvdCdServiceImpl:53 - DvdCd nao encontrado, class com.uepb.gerenciador.service.impl.DvdCdServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.HqServiceImpl:69 - Este HQ nao existe, class com.uepb.gerenciador.service.impl.HqServiceImpl
+16/04/19 20:47 [main] ERROR com.uepb.gerenciador.service.impl.HqServiceImpl:51 - Hq nao encontrado, class com.uepb.gerenciador.service.impl.HqServiceImpl
+16/04/19 20:48 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:92 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+16/04/19 20:48 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:65 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+16/04/19 20:48 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:65 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+16/04/19 20:48 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:116 - Objeto inexistente class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+16/04/19 20:48 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:113 - Objeto inexistente class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 20:48 [main] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:63 - Amigo nao encontrado, class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+16/04/19 20:48 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:89 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+16/04/19 20:48 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:51 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+03/05/19 08:35 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:92 - O emprestimo que traz os dados novos esta nulo, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+03/05/19 08:35 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:65 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+03/05/19 08:35 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:65 - Emprestimo nao encontrado, class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+03/05/19 08:35 [main] ERROR com.uepb.gerenciador.service.impl.EmprestimoServiceImpl:116 - Objeto inexistente class com.uepb.gerenciador.service.impl.EmprestimoServiceImpl
+07/05/19 12:28 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 12:28 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 14:48 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 14:48 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 14:49 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 14:49 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 14:50 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 14:50 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:12 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:12 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:18 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:18 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:19 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:19 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:23 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:23 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:24 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:24 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:32 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:92 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:32 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:54 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:34 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:104 - item inexistente, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+07/05/19 15:34 [main] ERROR com.uepb.gerenciador.service.impl.ItemServiceImpl:60 - Item nao encontrado, class com.uepb.gerenciador.service.impl.ItemServiceImpl
+08/05/19 11:19 [http-nio-8080-exec-9] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:113 - Objeto inexistente class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+08/05/19 11:19 [http-nio-8080-exec-9]  WARN com.uepb.gerenciador.controller.AmigoController:116 - Nenhum amigo com o id informado class com.uepb.gerenciador.controller.AmigoController
+08/05/19 11:19 [http-nio-8080-exec-4]  WARN com.uepb.gerenciador.controller.EmprestimoController:94 - Deletando emprestimo
+09/05/19 10:18 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+09/05/19 14:05 [http-nio-8080-exec-2] ERROR com.uepb.gerenciador.controller.DvdCdController:126 - Erro ao atualizar o registro de DVD/CD: são padre pio de pietricina
+09/05/19 14:54 [http-nio-8080-exec-6]  WARN com.uepb.gerenciador.controller.EmprestimoController:94 - Deletando emprestimo
+09/05/19 19:20 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.service.impl.AmigoServiceImpl:113 - Objeto inexistente class com.uepb.gerenciador.service.impl.AmigoServiceImpl
+09/05/19 19:20 [http-nio-8080-exec-5]  WARN com.uepb.gerenciador.controller.AmigoController:116 - Nenhum amigo com o id informado class com.uepb.gerenciador.controller.AmigoController
+09/05/19 19:20 [http-nio-8080-exec-9]  WARN com.uepb.gerenciador.controller.EmprestimoController:97 - Deletando emprestimo
+12/05/19 04:53 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+12/05/19 05:32 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+12/05/19 14:24 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+12/05/19 14:24 [http-nio-8080-exec-6] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+14/05/19 06:05 [http-nio-8080-exec-10] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+14/05/19 06:43 [http-nio-8080-exec-3] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+14/05/19 06:44 [http-nio-8080-exec-8]  WARN com.uepb.gerenciador.controller.EmprestimoController:98 - Deletando emprestimo
+14/05/19 07:06 [http-nio-8080-exec-8]  WARN com.uepb.gerenciador.controller.EmprestimoController:98 - Deletando emprestimo
+14/05/19 09:12 [http-nio-8080-exec-4]  WARN com.uepb.gerenciador.controller.EmprestimoController:98 - Deletando emprestimo
+14/05/19 15:56 [http-nio-8080-exec-4]  WARN com.uepb.gerenciador.controller.EmprestimoController:98 - Deletando emprestimo
+14/05/19 16:05 [http-nio-8080-exec-6]  WARN com.uepb.gerenciador.controller.EmprestimoController:98 - Deletando emprestimo
+14/05/19 16:07 [http-nio-8080-exec-3]  WARN com.uepb.gerenciador.controller.EmprestimoController:98 - Deletando emprestimo
+14/05/19 16:07 [http-nio-8080-exec-3]  WARN com.uepb.gerenciador.controller.EmprestimoController:98 - Deletando emprestimo
+15/05/19 11:54 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.ItemController:144 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+15/05/19 13:20 [http-nio-8080-exec-5]  WARN com.uepb.gerenciador.controller.ItemController:127 - Listando Itens Repetidos 
+15/05/19 13:20 [http-nio-8080-exec-5]  WARN com.uepb.gerenciador.service.impl.ItemServiceImpl:159 - item: Celular  outro item: Celular
+15/05/19 13:20 [http-nio-8080-exec-5]  WARN com.uepb.gerenciador.service.impl.ItemServiceImpl:159 - item: Celular  outro item: Celular
+15/05/19 13:25 [http-nio-8080-exec-9] ERROR com.uepb.gerenciador.controller.ItemController:83 - Erro ao deletar item class com.uepb.gerenciador.controller.ItemController
+15/05/19 13:25 [http-nio-8080-exec-2] ERROR com.uepb.gerenciador.controller.ItemController:83 - Erro ao deletar item class com.uepb.gerenciador.controller.ItemController
+15/05/19 13:25 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.controller.ItemController:83 - Erro ao deletar item class com.uepb.gerenciador.controller.ItemController
+15/05/19 13:25 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.controller.ItemController:83 - Erro ao deletar item class com.uepb.gerenciador.controller.ItemController
+15/05/19 13:31 [http-nio-8080-exec-10]  WARN com.uepb.gerenciador.controller.ItemController:127 - Listando Itens Repetidos 
+15/05/19 13:31 [http-nio-8080-exec-10]  WARN com.uepb.gerenciador.service.impl.ItemServiceImpl:159 - item: Celular  outro item: Celular
+15/05/19 13:31 [http-nio-8080-exec-10]  WARN com.uepb.gerenciador.service.impl.ItemServiceImpl:159 - item: Celular  outro item: Celular
+15/05/19 13:31 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.ItemController:83 - Erro ao deletar item class com.uepb.gerenciador.controller.ItemController
+15/05/19 13:32 [http-nio-8080-exec-5]  WARN com.uepb.gerenciador.controller.EmprestimoController:98 - Deletando emprestimo
+15/05/19 14:17 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:18 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:18 [http-nio-8080-exec-10] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:20 [http-nio-8080-exec-3] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:20 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:20 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:20 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:20 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:20 [http-nio-8080-exec-7] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:21 [http-nio-8080-exec-7] ERROR com.uepb.gerenciador.controller.ItemController:145 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:52 [http-nio-8080-exec-7] ERROR com.uepb.gerenciador.controller.DvdCdController:152 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:57 [http-nio-8080-exec-6] ERROR com.uepb.gerenciador.controller.DvdCdController:152 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 14:57 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.controller.DvdCdController:152 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.ItemController
+15/05/19 15:03 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.DvdCdController:152 - Erro ao buscar o registro Item pelo registro: class com.uepb.gerenciador.controller.DvdCdController
+17/05/19 20:00 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:137 - O usuario não pode ser nulo
+17/05/19 20:00 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:00 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:00 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:147 - O nome não pode ser nulo
+17/05/19 20:00 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:00 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:142 - O e-mail não pode ser nulo
+17/05/19 20:00 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:00 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:152 - O senha não pode ser nulo
+17/05/19 20:00 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:00 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:103 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:02 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:137 - O usuario não pode ser nulo
+17/05/19 20:02 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:02 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:02 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:147 - O nome não pode ser nulo
+17/05/19 20:02 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:02 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:142 - O e-mail não pode ser nulo
+17/05/19 20:02 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:02 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:152 - O senha não pode ser nulo
+17/05/19 20:02 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:02 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:103 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:03 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:137 - O usuario não pode ser nulo
+17/05/19 20:03 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:03 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:66 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:03 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:147 - O nome não pode ser nulo
+17/05/19 20:03 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:03 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:142 - O e-mail não pode ser nulo
+17/05/19 20:03 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:03 [main]  WARN com.uepb.gerenciador.service.impl.UsuarioServiceImpl:152 - O senha não pode ser nulo
+17/05/19 20:03 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:51 - Erro ao persistir usuario class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 20:03 [main] ERROR com.uepb.gerenciador.service.impl.UsuarioServiceImpl:103 - Usuario nao encontrado class com.uepb.gerenciador.service.impl.UsuarioServiceImpl
+17/05/19 21:17 [http-nio-8080-exec-2] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:17 [http-nio-8080-exec-10] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:17 [http-nio-8080-exec-6] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:18 [http-nio-8080-exec-6] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:18 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:18 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:18 [http-nio-8080-exec-7] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:19 [http-nio-8080-exec-10] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:19 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:19 [http-nio-8080-exec-9] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:20 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-6] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-2] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-1] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-4] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-3] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-10] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-2] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:21 [http-nio-8080-exec-3] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:45 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.ItemController:62 - Erro ao salvar o registro Item: class com.uepb.gerenciador.controller.ItemController
+17/05/19 21:45 [http-nio-8080-exec-8] ERROR com.uepb.gerenciador.controller.DvdCdController:60 - Dados de DVD/CD nao preenchidos corretamente: 
+17/05/19 21:45 [http-nio-8080-exec-9] ERROR com.uepb.gerenciador.controller.DvdCdController:60 - Dados de DVD/CD nao preenchidos corretamente: 
+17/05/19 21:51 [http-nio-8080-exec-5] ERROR com.uepb.gerenciador.controller.DvdCdController:60 - Dados de DVD/CD nao preenchidos corretamente: 
+17/05/19 21:51 [http-nio-8080-exec-2] ERROR com.uepb.gerenciador.controller.HQController:60 - Erro ao criar o registro de HQ: 

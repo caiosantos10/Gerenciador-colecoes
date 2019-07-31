@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<title>Realizar Emprestimo</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="content p-1">
+			<div class="list-group-item">
+				<div class="d-flex">
+					<div class="mr-auto p-2">
+						<h2 class="display-4 titulo">Realizar Emprestimo</h2>
+					</div>
+				</div>
+				<hr>
+				<form th:action="@{/emprestimo/cadastro}" th:object="${Emprestimo}"
+					method="post">
+					<div class="form-row">
+
+						<div class="form-group col-md-4">
+							<label>Item</label> <select name="item" id="item"
+								class="form-control">
+								<option th:each="item : ${itens}" th:value="${item.id}"
+									th:text="${item.titulo}" />
+							</select>	
+						</div>
+					</div>
+
+					<div class="form-row">
+						<div class="form-group col-md-4">
+							<label>Amigo </label> <select name="amigo" id="amigo"
+								class="form-control">
+								<option th:each="amigo : ${amigos}" th:value="${amigo.id}"
+									th:text="${amigo.nome}" />
+							</select>
+						</div>
+					</div>
+
+					<div class="form-row">
+						<div class="form-group col-md-3">
+							<label>Data de Emprestimo </label> <input
+								name="dataDeEmprestimo" type="date" class="form-control"
+								id="dataDeEmprestimo" />
+						</div>
+					</div>
+
+					<div class="form-row">
+						<div class="form-group col-md-3">
+							<label>Data de Devolução </label> <input name="dataDeDevolucao"
+								type="date" class="form-control" id="dataDeDevolucao"/>
+						</div>
+					</div>
+
+					<p>
+						<span class="text-danger">* </span>Campo obrigatório
+					</p>
+					<button type="submit" class="btn btn-success">Cadastrar</button>
+				</form>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

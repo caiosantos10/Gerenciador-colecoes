@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"
+	layout:decorate="~{layouts/layout}">
+<head>
+<meta charset="UTF-8">
+<meta charset="ISO-8859-1">
+<title>Listar DVD/CD</title>
+</head>
+<body>
+	<div layout:fragment="content">
+		<div class="content p-1">
+			<div class="list-group-item">
+				<div class="d-flex">
+					<div class="mr-auto p-2">
+						<h2 class="display-4 titulo">Lista de DVD/CD</h2>
+					</div>
+				</div>
+				<hr>
+
+				<form action="#" th:action="@{/dvd_cd/filtrar}"
+					th:object="${ItemFiltro}" method="post">
+
+					<div class="form-row">
+						<div class="form-group col-md-6">
+							<label><span class="text-danger">*</span> Filtro</label> <input
+								name="filtro" type="text" class="form-control" id="filtro"
+								placeholder="Filtro" />
+						</div>
+
+					</div>
+
+					<div class="form-row">
+						<div class="form-group col-md-6">
+							<label>Filtrar por</label> <select name="tipoFiltro"
+								id="tipoFiltro" class="form-control">
+								<option selected>Selecione</option>
+								<option value="TITULO">Título</option>
+								<option value="MARCA">Marca</option>
+							</select>
+						</div>
+					</div>
+					<br>
+					<button type="submit" class="btn btn-success">Buscar</button>
+				</form>
+
+				<div>
+					<table class="table table-striped">
+						<tr>
+							<th>Titulo</th>
+							<th>Preço</th>
+							<th>Estado</th>
+							<th>Já foi assistido?</th>
+							<th>Conteudo</th>
+							<th>Marca</th>
+							<th>Observações</th>
+							<th>Editar</th>
+							<th>Deletar</th>
+						</tr>
+						<tr th:each="dvd : ${dvds}">
+							<td th:text="${dvd.titulo}">Titulo</td>
+							<td th:text="${dvd.preco}">Preço</td>
+							<td th:text="${dvd.estado}">Estado</td>
+							<td th:text="${dvd.statusDeUso}">StatusDeUso</td>
+							<td th:text="${dvd.conteudo}">Conteudo</td>
+							<td th:text="${dvd.marca}">Marca</td>
+							<td th:text="${dvd.observacoes}">Observações</td>
+
+							<td><a th:href="${'/dvd_cd/editar/' + dvd.id}"
+								class="btn btn-primary">Editar</a></td>
+							<td><a th:href="${'/dvd_cd/deletar/' + dvd.id}"
+								class="btn btn-danger">Deletar</a></td>
+						</tr>
+					</table>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</body>
+</html>
